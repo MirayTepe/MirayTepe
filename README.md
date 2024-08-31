@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miray Tepe</h1>
-<h3 align="center">A passionate backend developer from Türkiye</h3>
+<h3 align="center">A passionate software developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **Java**
 

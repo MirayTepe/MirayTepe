@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miray Tepe</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
-- 🔭 I’m currently learning on **Project Management**, **Data Analytics** and **AI**
+- 🔭 I’m currently learning on **Project Management**, **Data Analytics** and **Backend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
